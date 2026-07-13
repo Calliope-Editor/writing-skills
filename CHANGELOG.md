@@ -14,8 +14,10 @@ All notable changes to this catalog are documented here. The format loosely foll
   behavior test, Mamet's scene-chain audit, Story Grid's scene diagnostic, the
   RWA romance gate) — plus a **The shelf** section crediting the books and
   standards it reasons from. Genre-general, not romance-specific. Validated
-  end-to-end against a full novel; one genre-anchor `TODO(research)` remains, so
-  it stays `status: seed` until that closes.
+  end-to-end against a full novel and promoted to **`status: reviewed`** — the
+  first skill to graduate. The genre-generality guard is now governing behavior
+  in the skill; additional verified genre gates (mystery fair-play, more beat
+  sheets) are tracked as future enhancements, not blockers.
 - **CONTRIBUTING** now requires a **The shelf** section in every skill —
   attribution of the books/standards a skill actually reasons from.
 - **Catalog moved under `skills/`** — `skills/<category>/<skill-name>/SKILL.md`,

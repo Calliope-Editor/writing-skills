@@ -13,7 +13,7 @@ license: MIT
 metadata:
   category: editorial
   writes_back: true
-  status: seed
+  status: reviewed
   craft_standard: "Story-craft lineage (three-act, Story Grid, Save the Cat) plus Alison's alternative shapes and Le Guin on fake rules — diagnoses with them, forces none."
 ---
 
@@ -139,10 +139,12 @@ targets, and this skill inherits that humility:
   manuscript sold as romance that withholds either isn't flawed craft; it is
   shelved wrong, and the letter says which one it is.
 
-<!-- TODO(research): convention anchors still unverified — mystery fair-play
-(Knox/Van Dine as modern editors apply them), Romancing the Beat at primary
-source, historical fiction's expected band. Cite nothing from these until
-verified. -->
+Romance is the one genre with a fully verified gate here. For any other genre,
+reason from that genre's conventions generally and apply only what you can state
+with confidence — never invent a benchmark you can't stand behind. (In testing,
+the skill correctly declined to cite an unverifiable historical-fiction word-count
+band rather than guess.) More verified gates — mystery fair-play, additional beat
+sheets — can be added over time; none are required for the skill to run.
 
 ## How it runs
 
