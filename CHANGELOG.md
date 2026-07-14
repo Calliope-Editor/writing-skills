@@ -7,6 +7,19 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`line-editor` deepened and promoted to `reviewed`** — the third skill to
+  graduate; the editorial trio (developmental / line / continuity) is now all
+  reviewed. Built on verified craft: the four-part flag (line, issue, principle,
+  direction) that stops before the replacement sentence; Gardner's psychic
+  distance re-scoping filtering and show-don't-tell from faults into distance
+  control; reading aloud as the rhythm diagnostic; pattern-first, not a wall of
+  marks. Its absolute never-rewrite is framed honestly as a deliberate sharpening
+  of trade practice (which permits occasional fixes), justified because a
+  machine-supplied line captures voice even more than a human's. **Live-tested**
+  on a passage with five planted line-weaknesses plus a distance-appropriate
+  "telling" line and deliberate style: 5/5 caught, the far-distance line
+  correctly used as the voice yardstick (not flagged), the deliberate anaphora
+  recognized as craft, and zero rewrites.
 - **`continuity-editor` deepened and promoted to `reviewed`** — the second
   skill to graduate. Built out with verified method and posture: it builds the
   trade's **style sheet** as its canon model (Characters / Places / Timeline,

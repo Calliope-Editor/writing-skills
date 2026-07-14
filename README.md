@@ -38,7 +38,7 @@ law behind all of them is short and public: **[PRINCIPLES.md](PRINCIPLES.md)**.
 | Skill | What it does | Tends canon\* |
 |---|---|:--:|
 | [**developmental-editor**](skills/editorial/developmental-editor) ✅ | The big-picture read: structure, pacing, arc, stakes — an edit letter, before any line edits. | ✓ |
-| [**line-editor**](skills/editorial/line-editor) | Sentence craft — rhythm, clarity, voice, overwriting. Shows the weak line and why; never rewrites it. | ✓ |
+| [**line-editor**](skills/editorial/line-editor) ✅ | Sentence craft — rhythm, clarity, voice, overwriting. Shows the weak line and why; never rewrites it. | ✓ |
 | [**copy-editor**](skills/editorial/copy-editor) | Grammar, punctuation, consistency, house style — each flagged with the governing rule, so you decide. | ✓ |
 | [**continuity-editor**](skills/editorial/continuity-editor) ✅ | Reads the book against its own facts and timeline and flags the contradictions. Pairs with the Map. | ✓ |
 
