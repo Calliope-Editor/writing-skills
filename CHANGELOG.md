@@ -7,6 +7,21 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`copy-editor` deepened and promoted to `reviewed`** — the fourth skill to
+  graduate; the editorial quartet (developmental / line / copy / continuity) is
+  now complete and all reviewed. Grounded almost entirely in primary authority
+  (the *Chicago Manual of Style*, its Q&A / Shop Talk, CIEP, SFWA), with a
+  three-way boundary that lets copy-editing happen without breaking the one rule:
+  token-level mechanical fixes **stated** (spelling, comma-by-rule), sentence-level
+  fixes **named but never recast** ("a phrasing decision belongs to the author"),
+  and possible voice choices **queried**. Carries the verified dialogue-punctuation
+  checklist (speech-tag comma, action-beat vs. tag, em-dash interruption vs.
+  ellipsis trailing), the style sheet with a first-occurrence word list, and the
+  honest framing that an absolute flag-never-apply is a deliberate sharpening.
+  **Live-tested** on a passage seeded with five mechanical errors, a dangling
+  modifier, and deliberate voice: 5/5 corrections with rules stated, the dangling
+  modifier named-not-rewritten, and the two comma splices sorted correctly (the
+  dialogue splice corrected, the rhythm splice queried).
 - **`line-editor` deepened and promoted to `reviewed`** — the third skill to
   graduate; the editorial trio (developmental / line / continuity) is now all
   reviewed. Built on verified craft: the four-part flag (line, issue, principle,
