@@ -19,7 +19,7 @@ Every AI writing tool wants to draft for you. **These don't.** Each skill reads 
 Built as [Claude](https://claude.com) Agent Skills, usable in any Claude session, and made to connect to a real manuscript over the [Calliope](https://writecalliope.ink) MCP connector.
 
 > ## 13 skills · 4 categories · 0 that write your prose
-> Fork any one, shape it to your craft, and point it at your book.
+> Install one, point it at your manuscript, and get the read.
 
 ## Who these are for
 
@@ -31,14 +31,16 @@ law behind all of them is short and public: **[PRINCIPLES.md](PRINCIPLES.md)**.
 
 ## The catalog
 
+*✅ marks a **reviewed** skill — deepened with researched craft rubrics and tested end-to-end against a real manuscript. The rest are usable and in active development toward that bar.*
+
 ### ✍️ Editorial — simulated editors, from the story read to the copy pass
 
 | Skill | What it does | Tends canon\* |
 |---|---|:--:|
-| [**developmental-editor**](skills/editorial/developmental-editor) | The big-picture read: structure, pacing, arc, stakes — an edit letter, before any line edits. | ✓ |
+| [**developmental-editor**](skills/editorial/developmental-editor) ✅ | The big-picture read: structure, pacing, arc, stakes — an edit letter, before any line edits. | ✓ |
 | [**line-editor**](skills/editorial/line-editor) | Sentence craft — rhythm, clarity, voice, overwriting. Shows the weak line and why; never rewrites it. | ✓ |
 | [**copy-editor**](skills/editorial/copy-editor) | Grammar, punctuation, consistency, house style — each flagged with the governing rule, so you decide. | ✓ |
-| [**continuity-editor**](skills/editorial/continuity-editor) | Reads the book against its own facts and timeline and flags the contradictions. Pairs with the Map. | ✓ |
+| [**continuity-editor**](skills/editorial/continuity-editor) ✅ | Reads the book against its own facts and timeline and flags the contradictions. Pairs with the Map. | ✓ |
 
 ### 🎭 Character — industry-standard cards
 
