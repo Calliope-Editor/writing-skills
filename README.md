@@ -63,7 +63,7 @@ law behind all of them is short and public: **[PRINCIPLES.md](PRINCIPLES.md)**.
 
 | Skill | What it does | Tends canon\* |
 |---|---|:--:|
-| [**dialogue-gym**](skills/craft/dialogue-gym) | Subtext, beats, and distinct voices — drilled and ranked. | — |
+| [**dialogue-gym**](skills/craft/dialogue-gym) ✅ | Subtext, beats, and distinct voices — drilled and ranked. | — |
 | [**scene-architecture**](skills/craft/scene-architecture) ✅ | Goal, conflict, disaster; scene and sequel — drilled and scored. | — |
 | [**psychic-distance**](skills/craft/psychic-distance) | The five rungs of narrative distance, and controlling them on purpose. | — |
 | [**prose-rhythm**](skills/craft/prose-rhythm) | Sentence variety, sound, and cadence — tuned and scored. | — |

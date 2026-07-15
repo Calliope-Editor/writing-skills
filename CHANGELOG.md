@@ -7,6 +7,19 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`dialogue-gym` deepened and promoted to `reviewed`** — the sixth skill to graduate
+  and the second craft-drill skill. It reads dialogue as an ordered pipeline: two scene
+  **gates** (collision — do the wants clash? — and the turn — does the balance shift?)
+  before line-level scoring (the subtext gap; every line as an action) and a voice check
+  anchored on vocabulary (McKee), with the tags-removed test kept honestly as a
+  heuristic. Carries a ten-rung drill ladder, named failure modes with correct
+  provenance (only four are *Turkey City Lexicon* — As You Know Bob, 'Said' bookism, Tom
+  Swifty, White Room), and a "directness on purpose" guardrail. Built on the shared
+  craft-coaching spine plus a 38-agent dialogue-rubric top-up (10/10 claims survived
+  adversarial verification). **Live-tested** on two writer-turn fixtures: a wooden,
+  on-the-nose exchange (caught on-the-nose plus As-You-Know-Bob, interchangeable voices,
+  and a fancy tag; set a prohibition-driven drill) and a deliberately blunt character
+  declared on purpose (re-scoped and credited as load-bearing) — zero rewrites in either.
 - **`scene-architecture` deepened and promoted to `reviewed`** — the fifth skill to
   graduate and the first **craft-drill** skill, taking the pipeline beyond editorial
   reads. It's a scene-craft *gym*: intake → a laddered drill → you write it → a scored
