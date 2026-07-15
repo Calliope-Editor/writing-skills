@@ -44,6 +44,15 @@ medians, there to set expectations of depth, not to quote a market:
 The writer picks at intake. Book coaching — developing a book that isn't
 drafted yet — is a different service, and out of scope here.
 
+## Try it
+
+You don't need the jargon — the editor settles the details at intake. Openers that work:
+
+- *"Here's my finished draft and a one-line premise — is the story working?"*
+- *"The middle drags and I can't figure out why. Can you do an assessment?"*
+- *"It's a quiet, Austen-ish novel — judge the shape it's going for, not the plot it
+  'should' have."* (declare intent)
+
 ## Input
 
 Pasted text, an attached manuscript file, or a named range ("read chapters

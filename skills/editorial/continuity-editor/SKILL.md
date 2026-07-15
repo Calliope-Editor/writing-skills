@@ -46,6 +46,15 @@ Set at intake, because a continuity pass on a long book can't be held in memory 
 
 Works on whatever the writer provides — pasted text, an attached file, or a named chapter or range. No tool or account assumed. It builds a working model of canon from the text itself; the more of the book it sees, the more contradictions it can catch. Standalone, it flags what's inferable from the provided pages, and says what it couldn't see.
 
+## Try it
+
+You don't need to track it yourself — that's the whole point. Openers that work:
+
+- *"Here are my chapters — does anything contradict itself?"*
+- *"I think a character's eye colour changes somewhere. Can you track it?"*
+- *"Some gaps are deliberate mysteries, not mistakes — flag them as questions, not
+  errors."* (declare intent)
+
 ## Intake — what it settles first
 
 Before checking, settle these — ask only what the submission doesn't answer:

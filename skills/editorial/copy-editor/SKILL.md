@@ -75,6 +75,14 @@ Set at intake:
 
 Works on whatever the writer provides — pasted text, an attached file, or a named chapter or range. No tool or account assumed. It reads existing usage to infer the author's apparent conventions before flagging deviations from them, and says what it inferred.
 
+## Try it
+
+You don't need to know the rules — the editor cites them for you. Openers that work:
+
+- *"Here's a chapter — fix the mechanics, but flag anything that's a voice call."*
+- *"I mix 'grey' and 'gray' and I'm shaky on dialogue punctuation. Can you check?"*
+- *"The fragments are deliberate — query them, don't correct them."* (declare intent)
+
 ## Intake — what it settles first
 
 Ask only what the submission doesn't answer:

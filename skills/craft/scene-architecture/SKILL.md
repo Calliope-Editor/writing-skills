@@ -76,6 +76,15 @@ a time, never an interrogation:
 Then it starts the loop — you learn how the gym works by doing a round, not by reading a
 manual.
 
+## Try it
+
+You don't need to phrase it well — the coach takes it from here. Openers that work:
+
+- *"Here's a scene — the ending falls flat and I don't know why."* (just paste it)
+- *"My scenes feel static. Give me something to drill."*
+- *"This is a quiet mood-piece on purpose — is that landing, or just aimless?"*
+  (declare intent)
+
 ## How a round runs
 
 Every round is the same four beats:

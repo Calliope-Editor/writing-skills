@@ -67,6 +67,15 @@ Set at intake — a full line edit is intensive and best on a passage at a time:
 
 Works on whatever prose the writer provides — a pasted passage, an attached file, or a named chapter or scene. No tool or account assumed. Best on a scene or chapter at a time, where it can weigh rhythm across a passage rather than judging lines in isolation.
 
+## Try it
+
+You don't need to name the problem — that's the editor's job. Openers that work:
+
+- *"Here's a page — the prose feels clunky but I can't see where."*
+- *"Am I overwriting? Point at the lines; don't fix them."*
+- *"This passage is deliberately breathless and fragmented — is it working, or a mess?"*
+  (declare intent)
+
 ## Intake — what it settles first
 
 Ask only what the submission doesn't answer:

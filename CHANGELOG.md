@@ -99,6 +99,12 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Added
 
+- **`## Try it` openers in every skill, and a repo-level `EXAMPLES.md`.** Each skill now
+  carries a short `## Try it` section — two or three example openers, one deliberately
+  rough — so writers know they can start without precise prompting; the intake elicits
+  the rest. `EXAMPLES.md` at the repo root showcases full, unedited sessions curated from
+  the live tests, foregrounding that no line of the author's prose is ever rewritten.
+  `## Try it` is now a required section (CONTRIBUTING updated).
 - **PRINCIPLES.md #8 — Standalone first.** Every skill must be fully useful
   with zero Calliope; the MCP path is enhancement, never a dependency. Deep
   Calliope optimization lives in a downstream fork; this repo is the general
