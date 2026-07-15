@@ -7,6 +7,21 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`psychic-distance` deepened and promoted to `reviewed`** — the seventh skill to
+  graduate and the third craft-drill skill. It teaches Gardner's five rungs of psychic
+  distance and reads a passage's rung off the *convergence* of four markers (naming,
+  interiority, free indirect discourse, syntax) plus the countable filter-verb lever —
+  holding firm that distance is a **separate dial from grammatical person** and not the
+  show/tell binary. It scores placement, control, and *fit* (Gardner's camera map) as
+  separate axes, never "closest wins," with named failure modes (drift, the lurch,
+  monotone, filter fog, fake closeness, and head-hop with a staged-hand-off remedy).
+  Built on the shared craft-coaching spine plus a 38-agent distance-rubric top-up that
+  corrected the rung wording and flagged the drill templates as the gym's own design,
+  not attributable to a named authority. **Live-tested** on two fixtures: a filter-fogged,
+  head-hopping "cold" passage (caught the filter fog by counting all eight verbs, named
+  the lurch, and applied person≠distance and fake-closeness unprompted) and a
+  deliberately wide god's-eye opening (re-scoped, graded the remove as load-bearing, and
+  deferred a manuscript-level concern to the line-editor) — zero rewrites in either.
 - **`dialogue-gym` deepened and promoted to `reviewed`** — the sixth skill to graduate
   and the second craft-drill skill. It reads dialogue as an ordered pipeline: two scene
   **gates** (collision — do the wants clash? — and the turn — does the balance shift?)
