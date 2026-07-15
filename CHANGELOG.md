@@ -7,6 +7,24 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`prose-rhythm` deepened and promoted to `reviewed`** — the eighth skill to graduate,
+  **completing the craft-drill category** (scene, dialogue, distance, rhythm all reviewed).
+  It reads rhythm along four dimensions (variety, cadence/emphasis, sound, syntax-as-pacing),
+  using the sentence-length run and punctuation-as-tempo only to *point* at candidates —
+  never a variance score, because a single metric can't hear. The mind's-ear fit-to-effect
+  is the score; sound notes are raised as *candidates* and every round ends by handing the
+  ear-verdict back to the writer (*read it aloud*). Carries the end-weight / punch-word
+  check, the cumulative/periodic and asyndeton/polysyndeton vocabulary, named failure modes
+  (monotone/drone, unintended echo, tongue-tangle, run-on, choppy, unearned polysyndeton),
+  and — most important here, since rhythm *is* voice — the guardrail that a deliberate
+  signature (Hemingway's hammering, McCarthy's polysyndeton) is credited when it's
+  consistent, motivated, and namable, never "corrected toward variety." Built on the shared
+  spine plus a 38-agent rhythm-rubric top-up that killed variance-as-the-score. **Live-tested**
+  on two fixtures: a monotone passage (named the drone by pointing at the 9,9,8,9… length
+  run, set a count-checkable prohibition drill, closed with read-aloud) and a deliberately
+  hammered-flat numb passage (re-scoped, graded the monotone Strong, explained the craft that
+  makes it work, and told the writer to keep their motivated swells over their own stated
+  "all one length" goal) — zero rewrites in either.
 - **`psychic-distance` deepened and promoted to `reviewed`** — the seventh skill to
   graduate and the third craft-drill skill. It teaches Gardner's five rungs of psychic
   distance and reads a passage's rung off the *convergence* of four markers (naming,
