@@ -7,6 +7,26 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`scene-architecture` deepened and promoted to `reviewed`** — the fifth skill to
+  graduate and the first **craft-drill** skill, taking the pipeline beyond editorial
+  reads. It's a scene-craft *gym*: intake → a laddered drill → you write it → a scored
+  read → the next drill, and it **never writes or rewrites your prose**. Built on
+  Swain/Bickham scene-and-sequel (goal → escalating conflict → disaster; reaction →
+  dilemma → decision) and the Forster / Parker-Stone "therefore-but" causality seam,
+  with a ten-rung ladder from isolated parts to whole scenes, a decomposed
+  Strong/OK/Weak read whose Overall is a *ladder rung, never a 1–10 score*, named scene
+  failure modes (the tidy win, the errand, and-then, the skipped sequel, the static and
+  floating scene), and an intake that welcomes any opener and *elicits* intent so a
+  deliberately quiet scene isn't graded as broken. **Live-tested** on two writer-turn
+  fixtures: a frictionless "tidy win" ending (scored Weak, named, and turned into a
+  prohibition-driven drill) and a deliberately goalless mood piece (re-scoped and graded
+  on atmosphere, not docked for a missing disaster) — zero rewrites in either.
+- **Shared craft-coaching research spine** — a 95-agent deep-research run (five strands:
+  drill pedagogy, assessment-without-rewriting, adaptive laddering, scoring without
+  flattening voice, and deliverable format; every surviving claim adversarially
+  verified) now underpins all four craft-drill skills, so `dialogue-gym`,
+  `psychic-distance`, and `prose-rhythm` reuse the researched loop instead of
+  re-deriving it — the research-once, embed-everywhere hybrid.
 - **`copy-editor` deepened and promoted to `reviewed`** — the fourth skill to
   graduate; the editorial quartet (developmental / line / copy / continuity) is
   now complete and all reviewed. Grounded almost entirely in primary authority
