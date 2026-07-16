@@ -7,6 +7,28 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`beta-reader-panel` deepened and promoted to `reviewed`** — the tenth skill to graduate and the
+  second critique-simulator. It runs a small, genre-adaptive panel of **distinct reader lenses**
+  (Immersive, Genre Fan, Literary, Skeptic) reacting chapter by chapter, then a synthesis that sorts
+  **signal from taste by convergence weighted by impact** — never headcount — surfacing a sharp lone
+  catch rather than burying it. Its design answers the persona-collapse the research documents:
+  distinctness comes from **reading *stance*, not persona costume** (Rosenblatt's transactional theory
+  — stance is an assignable dial, not a fixed trait), and each reader reacts **blind** before the room
+  compares notes. A `## Running the panel` section makes that independence honest about its own
+  enforcement: a hardened single-context default (lock each first-pass reaction before any
+  cross-comparison) plus an optional **sub-agent-per-reader** upgrade for hosts that can spawn agents,
+  turning blind elicitation from *simulated* into *architecturally real*. Output is the verified
+  3-layer deliverable (room's verdict → consensus line → distinct verbatim voices). Grounded on two
+  honest tiers — the spine-verified backbone (independent elicitation, convergence-as-signal, the
+  drift model, reaction-not-prescription) plus **attributed beta-reading craft practice** (the
+  reaction schema and reader questionnaires practitioners converge on), which the top-up's adversarial
+  verification correctly declined to certify as empirical fact. **Live-tested** on two fixtures: a
+  seeded convergence test (the panel converged on a saggy market stretch, localized the drift to the
+  coin-counting, kept four genuinely distinct voices that openly dissented, and demonstrated the
+  skim/zone-out model when one reader missed a flat line another caught) and a deliberate-choice
+  divergence trap (a prickly protagonist done well — the panel *diverged* into a taste split instead
+  of a false "soften her" consensus, credited the deliberate coldness, saw the buried grief, and
+  pinned the real risk to a single beat of cruelty to a kind character) — zero rewrites in either.
 - **`agent-first-pages` deepened and promoted to `reviewed`** — the ninth skill to graduate and
   the **first critique-simulator** (the first of the room-simulator shape, beyond editorial checkers
   and craft coaches). It simulates one **genre-matched** literary agent reading cold from the slush
