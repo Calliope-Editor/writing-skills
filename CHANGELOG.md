@@ -7,6 +7,27 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`agent-first-pages` deepened and promoted to `reviewed`** — the ninth skill to graduate and
+  the **first critique-simulator** (the first of the room-simulator shape, beyond editorial checkers
+  and craft coaches). It simulates one **genre-matched** literary agent reading cold from the slush
+  pile and returns a realistic verdict — *a request is rare and earned; a pass is the default* —
+  always followed by **the honest why a real agent never sends you**. Built on a new **shared
+  critique-simulation research spine** (a 95-agent, five-strand run — reader-response, persona
+  fidelity, anti-sycophancy, the never-rewrite guardrail, multi-voice deliverable) plus a 38-agent
+  agent-first-pages top-up. Carries the verified substance: the *silent-drift* reader-response model
+  (attention decoupling over static stretches; skim vs. zone-out), the **false-action open /
+  started-in-the-wrong-place** structural test (Kristin Nelson's ~50%; Matesic; Barker & Cho;
+  Edgerton), real slush request-rate calibration (~2–5%, not the double digits agents recall), and
+  three anti-sycophancy disciplines (reads stake-stripped, holds its ground under pushback, reports
+  reaction not prescription — grounded in Gaiman, Sommers, Elbow, Lerman, and the Anthropic sycophancy
+  work). Honestly scoped where verification refused to support folk wisdom: the per-genre *rulebook*
+  and the clichéd-opener *auto-penalty* were both refuted, so clichés are demoted to
+  warning-signs-not-disqualifiers and genre sets emphasis and the market bar over a cross-genre
+  structural spine. **Live-tested** on two writer-turn fixtures: a false-action thriller open (named
+  the action-then-stall by name, flagged the backstory dump as a *zone-out*, passed against the
+  thriller bar) and a *deliberately* working literary slow burn (applied the literary bar, credited
+  the voice and the buried mother-estrangement as real pressure, held its ground against the writer's
+  "hookless?" self-doubt, and pushed the buried coal rather than "add a hook") — zero rewrites in either.
 - **`prose-rhythm` deepened and promoted to `reviewed`** — the eighth skill to graduate,
   **completing the craft-drill category** (scene, dialogue, distance, rhythm all reviewed).
   It reads rhythm along four dimensions (variety, cadence/emphasis, sound, syntax-as-pacing),
