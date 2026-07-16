@@ -55,7 +55,7 @@ law behind all of them is short and public: **[PRINCIPLES.md](PRINCIPLES.md)**.
 |---|---|:--:|
 | [**beta-reader-panel**](skills/critique/beta-reader-panel) ✅ | A panel of distinct reader personas reacting chapter by chapter — confused, bored, delighted, lost. | ✓ |
 | [**agent-first-pages**](skills/critique/agent-first-pages) ✅ | A literary agent's slush-pile read of your opening: request, or pass — and the honest why. | — |
-| [**workshop-critique**](skills/critique/workshop-critique) | A Milford/Clarion-style critique round; the group speaks while you stay in the cone of silence. | — |
+| [**workshop-critique**](skills/critique/workshop-critique) ✅ | A Milford/Clarion-style critique round; the group speaks while you stay in the cone of silence. | — |
 
 ### 🏋️ Craft drills — get better on purpose
 

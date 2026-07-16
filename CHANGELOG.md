@@ -7,6 +7,29 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`workshop-critique` deepened and promoted to `reviewed`** — the eleventh skill to graduate,
+  **completing the critique-simulator category** (`agent-first-pages`, `beta-reader-panel`,
+  `workshop-critique` all reviewed). It runs a Milford/Clarion-style round: a small table of distinct
+  **craft-stance critiquers** (Architect, Character, Stylist, Reader) who each form their read **alone**
+  first — the workshop's own read-alone rule, which is also the spine's independent elicitation — then
+  speak in turn, building on and dissenting from one another, while the author stays in the **cone of
+  silence**. Its defining choice: it **holds the absolute never-illustrate line** — diagnosis and
+  direction, never a supplied line or even a throwaway "here's what I'd try" — a deliberate tightening
+  of the real workshop tradition (the same sharpening the line-editor makes), chosen by the maintainer
+  over the research-supported disposable-illustration option. Output is the 3-layer deliverable (the
+  turns → the central issue → *neutral* questions, Lerman-style). Built on the critique-simulation spine
+  plus the Milford method as **attributed craft convention** — no dedicated top-up, since the spine had
+  already verified the guardrail and multi-voice mechanics and practitioner-craft strands come back
+  unverifiable by design. Carries the two-tier `## Running the round` independence note (hardened
+  single-context default + optional sub-agent-per-critiquer upgrade). **Live-tested** on two fixtures: a
+  seeded-fault flash piece (the table converged on the central issue — *the story summarizes its drama
+  instead of enacting it*, the reconciliation resolving with no obstacle and the crucial call offstage —
+  with the Architect and Character critiquer openly disagreeing on the diagnosis, and **the Stylist
+  naming the clichéd lines and explicitly refusing to rewrite them** — the hold-the-line policy holding
+  under maximal temptation) and a deliberately experimental second-person piece (the table named the
+  intent before judging, credited the withholding and the second person as controlled, split genuinely
+  on whether a refrain read as symptom or tic, and declined to conventionalize it) — zero rewrites, zero
+  supplied lines in either.
 - **`beta-reader-panel` deepened and promoted to `reviewed`** — the tenth skill to graduate and the
   second critique-simulator. It runs a small, genre-adaptive panel of **distinct reader lenses**
   (Immersive, Genre Fan, Literary, Skeptic) reacting chapter by chapter, then a synthesis that sorts
