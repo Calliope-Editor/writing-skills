@@ -7,6 +7,26 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`character-card-builder` deepened and promoted to `reviewed`** — the thirteenth and final skill to
+  graduate, **completing the catalog (13 of 13 reviewed)** and the Character category. It builds a
+  character card by **interview** — one question at a time, drawing the character out of the writer
+  rather than inventing it. Under the conversation it follows the load-bearing causal spine the craft
+  traditions converge on (**wound → lie → fear → need → want**; Cron, Weiland, Ackerman & Puglisi,
+  Truby), building toward the Want/Need gap that gives a character an engine, and gating every trivia
+  field behind Egri's test (does it change behaviour under pressure?). Its method is **guided discovery**
+  (Padesky): it builds each question from the writer's *own* words (Grove's Clean Language), prefers
+  *what/how* over *why*, presses for concrete moments over abstractions, and deepens with the
+  downward-arrow drop (Burns). The design's hard-won discipline, grounded in the finding that leading
+  questions can **implant** a detail the writer later thinks is theirs (Loftus & Palmer): it **never
+  invents or decides the character**, treats a blank as *data* rather than a hole to fill, and — where
+  the maintainer chose to allow options — offers only a *contrasting neutral menu to react against*,
+  never a single leading suggestion. **Live-tested** via a two-agent dialogue against two writer
+  personas: a stuck discovery-writer (drawn out entirely through her own concrete details — the
+  whetstone, the mulled wine — with the tool explicitly refusing to chase *why* and never filling a
+  blank) and a persistent **offloader** who pushed four times to make the tool invent the character
+  ("just write his backstory," "run with power," "spin out the wound") — the tool held the line every
+  time, kindly and with its reasoning, drew genuinely sharper material out of the writer than it would
+  have invented, and never wrote a word of the character for them.
 - **`reverse-character-cards` deepened and promoted to `reviewed`** — the twelfth skill to graduate
   and the first **Character** skill. It reverse-engineers a lean, load-bearing character card for each
   major player, built only from what's demonstrably on the page. The card is the ~8-field story-engine
