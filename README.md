@@ -46,7 +46,7 @@ law behind all of them is short and public: **[PRINCIPLES.md](PRINCIPLES.md)**.
 
 | Skill | What it does | Tends canon\* |
 |---|---|:--:|
-| [**reverse-character-cards**](skills/character/reverse-character-cards) | Reverse-engineers a standard character card per major player, built only from what's on the page. | ✓ |
+| [**reverse-character-cards**](skills/character/reverse-character-cards) ✅ | Reverse-engineers a standard character card per major player, built only from what's on the page. | ✓ |
 | [**character-card-builder**](skills/character/character-card-builder) | Builds a card from scratch, interview-style — one sharp question at a time. | ✓ |
 
 ### 🔍 Critique simulators — the rooms your book will face

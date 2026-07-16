@@ -7,6 +7,27 @@ All notable changes to this catalog are documented here. The format loosely foll
 
 ### Changed
 
+- **`reverse-character-cards` deepened and promoted to `reviewed`** — the twelfth skill to graduate
+  and the first **Character** skill. It reverse-engineers a lean, load-bearing character card for each
+  major player, built only from what's demonstrably on the page. The card is the ~8-field story-engine
+  spine that recurs across the craft traditions (Egri, Truby, McKee, Weiland, Story Grid) — Function,
+  Want, Need, Wound → Lie, Contradiction, Arc, Voice, Relationships — with a single inclusion test
+  (McKee's: a field earns its slot only if it changes a choice under pressure) and two disciplines the
+  research sharpened: **Want and Need are separate fields** with a divergence flag (no arc engine if
+  they align), and **arc is a toggle — change or steadfast** (never assume a transformation that isn't
+  there). It reads **behaviour over self-image**, recording what a character claims vs. what they
+  demonstrably do and naming the gap, and tags every field by **provenance** (stated-by-narration /
+  claimed-by-self / said-by-others / inferred-from-action) so a self-description is never mistaken for
+  fact and no inference is silently promoted. It finds the major cast by **structural function, not POV
+  or dialogue-volume** (which mislead), and tiers the rest (a one-line tag for walk-ons). Built on a
+  shared four-strand character-card research spine run with a **craft-recalibrated verifier** (judging
+  claims against named-authority consensus rather than empirical rigour — which fixed the wholesale
+  false-kills seen on the beta-panel practice run). **Live-tested** on two excerpts: one seeded with a
+  self-image gap (a shopkeeper who narrates himself as selfless while sacrificing the one person who
+  sustains him — caught, with Want/Need divergence, the non-POV employee carded major-by-function, and
+  the walk-on courier tiered to a one-line tag) and a deliberate steadfast character the writer feared
+  was "flat" (correctly carded steadfast-not-flat, the inverse self-image gap named, and the want≈need
+  alignment used to explain *why* a rich character can read as flat) — zero invented fiction in either.
 - **`workshop-critique` deepened and promoted to `reviewed`** — the eleventh skill to graduate,
   **completing the critique-simulator category** (`agent-first-pages`, `beta-reader-panel`,
   `workshop-critique` all reviewed). It runs a Milford/Clarion-style round: a small table of distinct
